@@ -26,5 +26,8 @@ El proyecto consiste en desarrollar una tienda en línea utilizando Next.js, don
 
 ![image](https://github.com/JulianAlconcher/E-commerce-NextJS-MovieMerch/assets/111883752/2dbbd994-737d-4f4e-9fba-6587a08be209)
 ![image](https://github.com/JulianAlconcher/E-commerce-NextJS-MovieMerch/assets/111883752/dae207a1-732c-4188-a032-84f5fcfbb35a)
+![image](https://github.com/JulianAlconcher/E-commerce-NextJS-MovieMerch/assets/111883752/eaea557e-945d-430c-8b40-8829cf745381)
+![image](https://github.com/JulianAlconcher/E-commerce-NextJS-MovieMerch/assets/111883752/08f648bf-1f9a-4ee0-bc5b-37143dc26311)
+![image](https://github.com/JulianAlconcher/E-commerce-NextJS-MovieMerch/assets/111883752/3f976683-2722-4aac-9ab8-966cb186a6e8)
 
 
