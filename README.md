@@ -24,5 +24,7 @@ El proyecto consiste en desarrollar una tienda en línea utilizando Next.js, don
 - **Calidad del Código:** Organización, legibilidad y uso de buenas prácticas de programación.
 - **Diseño y UX:** Atractivo visual y facilidad de uso de la aplicación.
 
-- ![image](https://github.com/JulianAlconcher/E-commerce-NextJS-MovieMerch/assets/111883752/2dbbd994-737d-4f4e-9fba-6587a08be209)
+![image](https://github.com/JulianAlconcher/E-commerce-NextJS-MovieMerch/assets/111883752/2dbbd994-737d-4f4e-9fba-6587a08be209)
+![image](https://github.com/JulianAlconcher/E-commerce-NextJS-MovieMerch/assets/111883752/dae207a1-732c-4188-a032-84f5fcfbb35a)
+
 
